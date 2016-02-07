@@ -39,6 +39,7 @@
 		65057C5D1C67D48D005379CD = {
 			isa = PBXGroup;
 			children = (
+				65057C7C1C67DC23005379CD /* Playground */,
 				65057C681C67D48D005379CD /* memoryNumber */,
 				65057C671C67D48D005379CD /* Products */,
 			);
@@ -57,12 +58,20 @@
 			children = (
 				65057C691C67D48D005379CD /* AppDelegate.swift */,
 				65057C6B1C67D48D005379CD /* ViewController.swift */,
-				65057C7B1C67DAF5005379CD /* numeroMemoria.playground */,
 				65057C6D1C67D48D005379CD /* Main.storyboard */,
 				65057C701C67D48D005379CD /* Assets.xcassets */,
 				65057C721C67D48D005379CD /* LaunchScreen.storyboard */,
 				65057C751C67D48D005379CD /* Info.plist */,
 			);
+			path = memoryNumber;
+			sourceTree = "<group>";
+		};
+		65057C7C1C67DC23005379CD /* Playground */ = {
+			isa = PBXGroup;
+			children = (
+				65057C7B1C67DAF5005379CD /* numeroMemoria.playground */,
+			);
+			name = Playground;
 			path = memoryNumber;
 			sourceTree = "<group>";
 		};
