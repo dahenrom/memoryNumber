@@ -23,6 +23,7 @@
 		65057C731C67D48D005379CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65057C751C67D48D005379CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65057C7B1C67DAF5005379CD /* numeroMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = numeroMemoria.playground; path = ../../numeroMemoria.playground; sourceTree = "<group>"; };
+		65057C7D1C67E0E5005379CD /* numberMemory.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = numberMemory.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				65057C701C67D48D005379CD /* Assets.xcassets */,
 				65057C721C67D48D005379CD /* LaunchScreen.storyboard */,
 				65057C751C67D48D005379CD /* Info.plist */,
+				65057C7D1C67E0E5005379CD /* numberMemory.playground */,
 			);
 			path = memoryNumber;
 			sourceTree = "<group>";
